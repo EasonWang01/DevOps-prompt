@@ -1,0 +1,4 @@
+[{
+  name: "Say hello",
+  command: "echo HELLO $USER",
+}]

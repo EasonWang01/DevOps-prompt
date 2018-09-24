@@ -1,0 +1,20 @@
+{
+  "name": "devops-prompt",
+  "version": "1.0.1",
+  "description": "Quick select for unix command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "devp": "./index.js"
+  },
+  "author": "yicheng",
+  "license": "ISC",
+  "dependencies": {
+    "fuzzy": "^0.1.3",
+    "inquirer": "^6.2.0",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "json5": "^2.0.1"
+  }
+}
