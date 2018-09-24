@@ -19,6 +19,8 @@ devp <optional config file>
 
 - Customizable command config
 - Support JSON5
+- Autocomplete search
+- Add any command you want in an JSON file then pass it as the second executed argument
 
 # License
 MIT. See [LICENSE.md](./LICENSE.md) for details.
