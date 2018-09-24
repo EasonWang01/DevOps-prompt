@@ -9,7 +9,7 @@ Which is a highly customizable command line tool for quick select and search for
 npm install --global devops-prompt
 ```
 
-### Usage
+# Usage
 ```sh
 devp <optional config file>
 ```
